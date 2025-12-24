@@ -1,6 +1,6 @@
 # Application
 
-[Seerr](https://github.com/sct/seerr)
+[Seerr](https://github.com/seerr-team/seerr)
 
 ## Description
 
