@@ -49,7 +49,7 @@ aur.sh --aur-package "${aur_packages}"
 ####
 
 # define comma separated string of install paths
-install_paths="/usr/lib/seerr,/var/lib/seerr,/home/nobody"
+install_paths="/home/nobody"
 
 # split comma separated string into list for install paths
 IFS=',' read -ra install_paths_list <<< "${install_paths}"
