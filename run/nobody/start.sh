@@ -1,5 +1,8 @@
 #!/usr/bin/dumb-init /bin/bash
 
+export NODE_ENV=production
+export CONFIG_DIRECTORY=/config/seerr
+
 # source in env (listen ip and port)
 source '/etc/conf.d/seerr'
 
